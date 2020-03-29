@@ -5,6 +5,7 @@ BACKEND
 - Node.JS with Express
 - Knex
 - SQLite
+- Celebrate (with Joi)
 
 FRONTEND
 - React
@@ -12,3 +13,6 @@ FRONTEND
 MOBILE
 - React Native
 - Expo
+
+TESTS
+- Jest
